@@ -1,0 +1,65 @@
+.container1{
+    position: relative;
+    text-align: center;
+}
+
+.firstvideo{
+    width:100%;
+}
+
+.sevenxtop{
+    position: absolute;
+    top:50px;
+    left: 80px;
+}
+.motto7x{
+    position: absolute;
+    top:200px;
+    left: 120px;
+}
+.leftGetInTouch{
+    position: absolute;
+    top:440px;
+    left: 150px;
+    width: 150px;
+    transform: scale(2.5);
+    
+}
+
+
+.rightGetInTouch{
+    position: absolute;
+    top:50px;
+    right: 100px;
+    transform: scale(1.6);
+}
+
+#whoweare{
+    width: 140px;
+    border-radius: 100px;
+    text-align: center;
+    transform: scale(1.1);
+}
+
+
+/*container2*/
+
+.container2{
+    padding-top: 120px;
+    padding-bottom: 100px;
+}
+
+/*container1.5*/
+
+.container1_5{
+    position: absolute;
+    top:720px;
+    left: 25%;
+    
+    color: black;
+}
+
+.fnameform::placeholder{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: smaller;
+}
